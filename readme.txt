@@ -6,5 +6,5 @@ git reflog
 git reset --hard [commit id]
 git init
 git diff
-
-my stupid boss
+git remote add orgin git@github.com:path_to_git
+git push origin master
