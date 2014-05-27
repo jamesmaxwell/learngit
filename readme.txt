@@ -7,3 +7,4 @@ git reset --hard [commit id]
 git init
 git diff
 
+my stupid boss
