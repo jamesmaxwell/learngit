@@ -13,3 +13,4 @@ git checkout -b
 git branch -d [name]
 git merge [name]
 git log --graph --pretty=oneline --abbrev-commit
+git stash
