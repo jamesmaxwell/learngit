@@ -8,5 +8,5 @@ git init
 git diff
 git remote add orgin git@github.com:path_to_git
 git push origin master
-git branch
-git checkout -b
+git brankhhh
+git checakkout -b
