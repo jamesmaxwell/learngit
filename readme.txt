@@ -12,3 +12,4 @@ git branch [name]
 git checkout -b
 git branch -d [name]
 git merge [name]
+git log --graph
