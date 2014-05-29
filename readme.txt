@@ -14,3 +14,10 @@ git branch -d [name]
 git merge [name]
 git log --graph --pretty=oneline --abbrev-commit
 git stash
+git tag
+git tag -a [name] -m "commit comment"
+git tag -d [name]
+git push origin tagname
+git push origin --tags
+git push origin :refs/tags/tagname
+git show tagname
